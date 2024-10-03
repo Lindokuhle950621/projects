@@ -1,4 +1,6 @@
-titles: Lindokhle Jonas
-descripiton: A collection of data analysis projects to demonstrate various skills in data cleaning, exploration and vissualisation.
-theme: jekyll-theme-minimal
+title: Lindokuhle Jonas 
+description: "A collection of data analysis projects demonstrating various skills in data cleaning, exploration, and visualization."
+theme: minima 
+plugins:
+  - jekyll-feed
 social Links: https://www.linkedin.com/in/praisworth-lindokuhle-jonas-b4b76954
