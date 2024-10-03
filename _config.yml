@@ -1,5 +1,5 @@
 title: Lindokuhle Jonas 
-description: "A collection of data analysis projects demonstrating various skills in data cleaning, exploration, and visualization."
+#description: "A collection of data analysis projects demonstrating various skills in data cleaning, exploration, and visualization."
 remote_theme: "jekyll/minima"
 plugins:
   - jekyll-feed
