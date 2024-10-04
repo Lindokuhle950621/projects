@@ -1,4 +1,4 @@
-Data Analyst
+Data Cleaning and exploration
 
 ### Certification
 
