@@ -1,6 +1,6 @@
 title: Lindokuhle Jonas 
 description: "A collection of data analysis projects demonstrating various skills in data cleaning, exploration, and visualization."
-remote_theme: "jekyll/time-machine"
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme
 social Links: https://www.linkedin.com/in/praisworth-lindokuhle-jonas-b4b76954
